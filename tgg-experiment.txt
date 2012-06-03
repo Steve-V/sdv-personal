@@ -1,0 +1,46 @@
+The End of BatSteve's IRC Experiment
+
+1 - A BIT OF HISTORY
+    - BatSteve started #thegeekgroup on Saturday, November 7, 2009, at 04:21:14 UTC.
+    - The first member, Thermoelectric, joined 3 minutes and 17 seconds later.
+    - Since then the channel has grown to a maximum of over 100 members, before shrinking to the current 60-70.
+    - The first non-human member of the channel was DrBotosaurus
+    - The first fight in the channel was between Tesla4d and Pegasus, over textbooks.
+    - During the first year or so, scientific / technical discussion occurred as much or more than social discussion.
+    - The first five members of the channel were BatSteve, Thermoelectric, CameronSS, DavidJkuhr, and Silvano, in that order.
+    - The first link posted in the channel was archive.org/web/petabox.php
+    - The channel first exceeded 100 members on December 28, 2011
+    - Despite my intentions, the channel began as a place to talk about The Geek Group, rather than a Geek Group place.  Part of this was due to the way the channel began, as an independent experiment rather than an official TGG project.
+
+2 - THE CURRENT SITUATION
+    - There are about 60-70 members in the channel at any one time.
+    - Both the quality and quantity of scientific / technical discussion in the channel has declined, while social discussion has remained at average levels.  This has resulted in the proportion of in-channel social discussion increasing.  At this time, the channel is more of a social space than a scientific / technical space.
+    - In part, the decrease in scientific discussion may be due to the decreasing number of scientific and technical members of the channel.  This may be because several of these members (cprossu comes to mind) have relocated to Grand Rapids, removing their need for online methods of interaction.
+    - Population of the channel is affected by the useability of the forums.  When the forums go down, or when the design of the forums makes them less comfortable to use, the channel experiences a spike in activity.
+    - Channel spam and other unwanted forms of communication are extremely low, almost nonexistent.  The signal-to-noise ratio is excellent.
+    - The channel has recently done a good job of providing a welcoming environment for new users, mostly due to actively social individuals such as wannabe1987.  
+    - As the channel becomes more closely integrated with the rest of The Geek Group's online presences (such as the website and the forums), the culture of the channel will evolve (and in fact already has done so more than once).
+    - Roughly 25% of users are entirely passive lurkers.
+    - 10 - 20% of the users are very active.
+    - The remaining users probably scatter out on something close to a normal distribution curve for activity level.
+    - Channel activity is correlated to timezone, the channel is not truly 24/7.  Greatest activity occurs during the afternoon / evening hours for the United States.
+    - Channel attitudes are roughly normally distributed, with a few channel members very enthusiastic about The Geek Group, a few channel members deeply dissatisfied with the group, and most somewhere in between.
+    - There appear to be slightly more dissatisfied users in the channel than satisfied users.  Note: this is how things appear, not necessarily how they are.
+    - One possible reason for this appearance is that dissatisfied individuals express their dissatisfaction more vocally than content individuals express their contentment.
+    - Highly satisfied members tend to become Real Life members, which limits their online activity with their greater involvement in the Grand Rapids community.
+    - The unofficial nature of the channel caused it to become a place to talk about The Geek Group rather than an official Geek Group place.  This meant that individuals felt more free to express their actual feelings and do not feel the need to censor themselves. As the channel becomes more "official", these discussions have moved to more private methods of communication.
+
+3 - THINGS I LEARNED
+    A - The question I wanted to answer on November 7, 2009 was "Should The Geek Group have an IRC channel?".  The answer, it seems, is a qualified yes.  The core (IRL) members have no need for an IRC channel, except occasionally.  However, among those members whose interactions with The Geek Group are online-only, the IRC and the YouTube videos are seen as the primary ways of interacting with the other members and the core staff, respectively.
+
+    B - The importance of active members - A healthy channel has activity commensurate with its population, and a large majority of that activity (and therefore, channel culture) is provided by a minority of users.  These users are the backbone of the channel, and they need to be recognized for their contributions from time to time.
+
+    C - The importance of open, equitable rules.  Surprisingly, it doesn't seem to matter what the rules of the channel are; what is important is that they are open and applied fairly.  During the first year or so, the de facto standard was "What BatSteve says goes", and to the best of my knowledge, nobody really had serious problems with this. If I banned someone and said "It's because you are annoying me.", the standard was totally arbitrary, but the rules were clear, fair, and predictable - don't annoy BatSteve, don't get kicked.  When I did this, it drew almost no comment at all.  However, when we were told by TGG Staff to ban Wannabe1987 but forbidden to reveal why, the channel exploded with accusations; the reason for the ban was unclear and unpredictable (it was also unfair, but we didn't know that at the time).  Rules that are effective are clear (explicit and accessible), fair (applied equally to all), and predictable (applied consistently).
+        B(1) - By the way, I didn't intend for it to work out with me in charge of the channel, it just developed that way.  I wanted to have a rotating 3-person council.
+
+    D - I learned that I don't mind running a channel about The Geek Group, but I don't really want to run a Geek Group channel.  For one thing, I don't have the time to do a good job, and I'm not going to take on a project that I can only give halfhearted effort to.  Also, I'm not Real Life Staff, and as the channel has grown into its official role, there have been serious communication challenges between the IRC ops and the Real Life Staff.  These can be solved, of course, but it's much simpler to just have someone there in real life.
+
+4 - CONCLUSIONS
+    - I think my experiment is just about over.  I started the channel, but others made it what it is today. Now it's time to step back and let the channel fly on its own.
+    - I haven't decided what I should do with my op flag yet.  I'll probably leave it up to a vote: unless a large majority of the channel wants me to keep it, I'll get rid of it.
+    - There's still problems (and there always will be), but overall I'm happy with all that a small, dedicated group of individuals was able to come together and achive.  In that respect, I feel the IRC Experiment was a complete success.
